@@ -14,7 +14,7 @@ setuptools.setup(
     long_description_content_type='text/markdown',
     license="Apache 2.0 License",
     keywords="modelica dymola openmodelica mat",
-    url="https://github.com/ORNL-Modelica/ModelicaPy",
+    url="https://github.com/WyrdLab/ModelicaPy",
     install_requires=['future'],
     packages=setuptools.find_packages(),
     classifiers=[
